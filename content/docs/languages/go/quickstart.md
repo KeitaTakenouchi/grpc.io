@@ -46,7 +46,7 @@ The example code is part of the [grpc-go][] repo.
  2. Change to the quick start example directory:
 
     ```sh
-    $ cd grpc-go/examples/helloworld
+    $ cd examples/helloworld
     ```
 
 ### Run the example
